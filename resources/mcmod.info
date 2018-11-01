@@ -1,0 +1,16 @@
+[
+{
+  "modid": "primeval",
+  "name": "The Primeval Mod",
+  "description": "This Mod adds Anomalies (Time Portals) Items, Blocks, Creatures and Much more from the amazing TV show Primeval!",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DinoEthan"],
+  "credits": "Impossible Pictures for Making Primeval!",
+  "logoFile": "download.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]
