@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "  A",
+        " AA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "primeval:monkeypuzzle_planks"
+        }
+    },
+   
+    "result":
+    {
+        "item": "primeval:monkeypuzzle_stairs",
+        "count": 4
+    }
+}

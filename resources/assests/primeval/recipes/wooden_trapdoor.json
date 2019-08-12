@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "Minecraft:wood_trapdoor",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "primeval:monkeypuzzle_planks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "Minecraft:trapdoor",
+    "data": 0,
+    "count": 2
+  }
+}

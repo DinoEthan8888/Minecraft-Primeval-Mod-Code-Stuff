@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "primeval:amber_block"
+    },
+ 
+    {
+      "item": "Minecraft:torch"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "primeval:amber_lamp",
+        "count": 1
+    }
+}

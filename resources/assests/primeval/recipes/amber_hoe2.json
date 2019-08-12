@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " AA",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "primeval:amber"
+        },
+        
+                "S":
+        {
+            "item": "Minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "primeval:amber_hoe",
+        "count": 1
+    }
+}

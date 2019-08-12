@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "primeval:monkeypuzzle_door",
+  "pattern": [
+    "AA",
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "primeval:monkeypuzzle_planks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "primeval:monkeypuzzle_door",
+    "data": 0,
+    "count": 3
+  }
+}

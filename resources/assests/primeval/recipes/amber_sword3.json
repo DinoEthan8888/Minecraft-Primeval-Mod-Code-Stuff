@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A  ",
+        "A  ",
+        "S  "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "primeval:amber"
+        },
+        
+                "S":
+        {
+            "item": "Minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "primeval:amber_sword",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "ASA",
+        "ASA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "primeval:monkeypuzzle_planks"
+        },
+        
+        "S":
+        {
+            "item": "Minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "primeval:monkeypuzzle_fence",
+        "count": 1
+    }
+}
