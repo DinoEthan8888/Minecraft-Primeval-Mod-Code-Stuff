@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "axis=y":  { "model": "primeval:monkeypuzzle_log" },
+        "axis=z":   { "model": "primeval:monkeypuzzle_log", "x": 90 },
+        "axis=x":   { "model": "primeval:monkeypuzzle_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "primeval:monkeypuzzle_bark" }
+    }
+}

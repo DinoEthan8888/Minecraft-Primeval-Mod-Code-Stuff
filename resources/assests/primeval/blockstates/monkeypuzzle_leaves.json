@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "check_decay=true,decayable=true": { "model": "primeval:monkeypuzzle_leaves" },
+        "check_decay=true,decayable=false": { "model": "primeval:monkeypuzzle_leaves" },
+        "check_decay=false,decayable=true": { "model": "primeval:monkeypuzzle_leaves" },
+        "check_decay=false,decayable=false": { "model": "primeval:monkeypuzzle_leaves" }
+    }
+}
