@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+   
+    "key":
+    {
+        "A":
+        {
+            "item": "primeval:amber"
+        }
+    },
+   
+    "result":
+    {
+        "item": "primeval:amber_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_gate_closed",
+    "textures": {
+        "texture": "primeval:blocks/monkeypuzzle_planks"
+    }
+}

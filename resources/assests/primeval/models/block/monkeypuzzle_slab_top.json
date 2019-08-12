@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "primeval:blocks/monkeypuzzle_planks",
+        "top": "primeval:blocks/monkeypuzzle_planks",
+        "side": "primeval:blocks/monkeypuzzle_planks"
+    }
+}

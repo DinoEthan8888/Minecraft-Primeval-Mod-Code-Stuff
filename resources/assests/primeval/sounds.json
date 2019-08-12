@@ -1,0 +1,20 @@
+{
+  "avisaurus_death": {
+    "category": "neutral",
+    "sounds": [
+      "primeval:entity.avisaurus.death"
+    ]
+  },
+  "avisaurus_hurt": {
+    "category": "neutral",
+    "sounds": [
+      "primeval:entity.avisaurus.death"
+    ]
+  },
+  "avisaurus_ambient": {
+    "category": "neutral",
+    "sounds": [
+      "primeval:entity.avisaurus.ambient"
+    ]
+  }
+}

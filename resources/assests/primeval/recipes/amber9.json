@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "primeval:amber_block"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "primeval:amber",
+        "count": 9
+    }
+}
